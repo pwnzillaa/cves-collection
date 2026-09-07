@@ -1,2 +1,2 @@
 # cve-collections
-A collection of my discovered CVEs.
+A collection of my discovered CVEs :)
